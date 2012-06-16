@@ -1,11 +1,20 @@
 ---
-layout: splash 
+layout: default
 title: Manifest
 tagline: 
 group: navigation
 show_logo_header: true
 nav_order: 1
 ---
+<span class="label label-important">
+  Entwurf/Draft
+</span>
+
+<div class="page-header">
+  <h1>Manifest</h1>
+</div>
+
+
 {% include JB/setup %}
 
 _(Kurzfassung)_

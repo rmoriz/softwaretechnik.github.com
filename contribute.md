@@ -7,6 +7,10 @@ nav_order: 9
 ---
 {% include JB/setup %}
 
+<span class="label label-important">
+  Entwurf/Draft
+</span>
+
 <div class="page-header">
   <h1>Mitmachen!</h1>
 </div>

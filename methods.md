@@ -7,6 +7,9 @@ nav_order: 3
 ---
 {% include JB/setup %}
 
+<span class="label label-important">
+  Entwurf/Draft
+</span>
 
 <div class="page-header">
   <h1>Agile Methoden</h1>
