@@ -2,9 +2,12 @@
 html, body {
   background-color: #086FA1;
 }
-.navbar {
-  margin-bottom: 0;
+body {
+  margin-top: 40px;
 }
+/* .navbar { */
+/*   margin-bottom: 0; */
+/* } */
 .container > footer {
   margin-top: 20px;
 }
