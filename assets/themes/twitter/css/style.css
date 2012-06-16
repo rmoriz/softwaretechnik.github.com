@@ -20,6 +20,10 @@ html, body {
   text-align: center;
 }
 
+footer {
+  color: #63ADD0;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;

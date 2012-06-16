@@ -1,47 +1,71 @@
 ---
 layout: splash 
-title: AG Softwaretechnik
-tagline: Inoffizielle Arbeitsgemeinschaft
+title: Manifest
+tagline: 
+group: navigation
 show_logo_header: true
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+Darum geht es:
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+__Die Planung, Entwicklung und der Betrieb von qualitativ hochwertigen Software-Projekten für die Piratenpartei und für den allgemeinen politischen Betrieb unter Einsatz von zeitgemäßer Methoden und Werkzeugen.__
 
-## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+<!--
+### Was bedeutet Softwareentwicklung?
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+<p>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+  Die deutschsprachige Wikipedia zitiert hierzu Prof. Dr.-Ing. Helmut Balzert
+  von der Ruhr-Universität Bochum:
+</p>
 
-    $ rm -rf _posts/core-samples
+<blockquote>
+  "Zielorientierte Bereitstellung und systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige Entwicklung und Anwendung von umfangreichen Softwaresystemen.“ 
+  <small>
+    Helmut Balzert, Lehrbuch der Software-Technik. Bd.1. Software-Entwicklung, S.36
+  </small>
+</blockquote>
+-->
 
-Here's a sample "posts list".
+## Motivation <small> Der aktuelle Zustand </small>
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+Neben den ursprünglichen Netzthemen basiert das Arbeitsprinzip der
+Piratenpartei auf Basisdemokratie. Dies ist in vielen Bereichen unserer
+Gesellschaft und des politischen Alltags aber vollkommenes Neuland.  Um sowohl über 30.000 Mitglieder in der Parteiarbeit, als auch über 82
+Millionen hier lebender Menschen dabei zu unterstützen, muss man automatisieren und den technologischen Vorteil von IT-Systemen auch nutzen können.
 
-## To-Do
+Hierbei haben wir jetzt schon massive Probleme:
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+- Betrieb der Partizipationstools (Wiki, Mailinglisten/Newsserver, Websites)
+- Verwaltung von über 30.000 Mitgliedern
+- Koordination der Mitarbeit
+- Koordination der Planung
+- Motivation zur Mitarbeit bei IT-Themen
+- geringe Agilität, extrem lange Wege
+- Bürokratie
+- Mangelnde Transparenz
+
+Dadurch ist es quasi unmöglich in kurzer Zeit innovative Anwendungen zu
+entwickeln, ohne dies vollständig ausserhalb der Partei zu tun.
+
+In der Vergangenheit wurden diverse "U-Boote" von einzelnen
+Mitgliedern auf _ungewöhnlichen_ technischen Grundlagen entwickelt.
+Diese sind heute schwer bis nicht mehr wartbar oder gar erweiterbar.
+Dabei machen sich sowohl der Entwickler als auch die Partei extrem
+voneinander abhängig.
+
+Gleichzeitig gibt es keine Alternativen, d.h. es existiert eine "Friss
+oder Stirb"-Situation die nicht dazu geeignet ist, langfristig das
+bestmöglichste Ergebnis zu erzielen. Auch ein _Outsourcing-Szenario_
+bleibt unrealistisch, denn die Partei verfügt auch in Zukunft nicht über
+ausreichend Mittel oder Kompetenzen um eine sichere Beauftragung
+(Anforderunskatalog/Lastenheft/...) zu erstellen.
+
+
+## Mittel und Ziel <small> Wie wir es besser machen wollen </small>
+
+
 
 
