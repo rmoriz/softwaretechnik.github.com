@@ -24,6 +24,13 @@ footer {
   color: #63ADD0;
 }
 
+footer .disclaimer {
+  font-size: 12px;
+  width: 800px;
+  text-align: justify;
+  margin: auto;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
