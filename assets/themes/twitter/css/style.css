@@ -20,6 +20,17 @@ html, body {
   text-align: center;
 }
 
+h1 {
+  display: inline-block;
+  border-bottom: 5px solid rgba(3,71,105,0.25);
+}
+
+section {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-bottom: 3px solid rgba(3,71,105,0.25);
+}
+
 footer {
   color: #63ADD0;
 }
