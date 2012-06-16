@@ -3,6 +3,7 @@ layout: default
 title: Mitmachen!
 tagline: 
 group: navigation
+nav_order: 9
 ---
 {% include JB/setup %}
 

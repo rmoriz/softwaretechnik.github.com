@@ -4,6 +4,7 @@ title: Manifest
 tagline: 
 group: navigation
 show_logo_header: true
+nav_order: 1
 ---
 {% include JB/setup %}
 

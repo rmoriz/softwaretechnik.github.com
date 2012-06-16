@@ -3,6 +3,7 @@ layout: default
 title: Methoden
 tagline: 
 group: navigation
+nav_order: 3
 ---
 {% include JB/setup %}
 

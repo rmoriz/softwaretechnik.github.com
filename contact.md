@@ -3,6 +3,7 @@ layout: default
 title: Kontakt
 tagline: 
 group: navigation
+nav_order: 10
 ---
 {% include JB/setup %}
 

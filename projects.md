@@ -3,6 +3,7 @@ layout: default
 title: Projekte
 tagline: 
 group: navigation
+nav_order: 2 
 ---
 {% include JB/setup %}
 
