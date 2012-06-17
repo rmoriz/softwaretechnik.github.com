@@ -12,6 +12,9 @@ nav_order: 1
 
 <div class="page-header">
   <h1>Manifest</h1>
+<p class="pull-right">
+  <a class="btn btn-large btn-primary">Mitmachen!</a>
+</p>
 </div>
 
 
@@ -25,28 +28,8 @@ Die Planung, Entwicklung und der Betrieb von qualitativ hochwertigen Software-Pr
 </strong>
 </blockquote>
 
-<!--
-### Was bedeutet Softwareentwicklung?
 
-<p>
-
-  Die deutschsprachige Wikipedia zitiert hierzu Prof. Dr.-Ing. Helmut Balzert
-  von der Ruhr-Universität Bochum:
-</p>
-
-<blockquote>
-  "Zielorientierte Bereitstellung und systematische Verwendung von Prinzipien, Methoden und Werkzeugen für die arbeitsteilige, ingenieurmäßige Entwicklung und Anwendung von umfangreichen Softwaresystemen.“ 
-  <small>
-    Helmut Balzert, Lehrbuch der Software-Technik. Bd.1. Software-Entwicklung, S.36
-  </small>
-</blockquote>
--->
-
-<section>
-<h2>
-  Motivation
-</h2>
-</section>
+## Motivation
 
 Neben den ursprünglichen Netzthemen basiert das Arbeitsprinzip der
 Piratenpartei auf Basisdemokratie. Dies ist in vielen Bereichen unserer
@@ -85,11 +68,7 @@ bringen, die von politischen Gruppen in 2013 sicherlich auch in
 Deutschland angewendet werden. __Hierzu müssen wir als Piratenpartei
 Deutschland auch in der Lage sein!__
 
-<section>
-<h2>
-  Ziel
-</h2>
-</section>
+## Ziel
 
 Aus unserer alltäglichen beruflichen Arbeit und jahrzehntelanger
 Erfahrung wissen wir, worauf es ankommt. Wir wissen, wie man

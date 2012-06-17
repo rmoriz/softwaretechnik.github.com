@@ -38,9 +38,17 @@ a.brand-image {
   min-width: 100px;
   display: inline-block;
 }
+
 h1 {
   display: inline-block;
   border-bottom: 5px solid rgba(3,71,105,0.25);
+}
+
+h2 {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  border-bottom: 1px solid rgba(3,71,105,0.25);
 }
 
 section {
@@ -75,7 +83,8 @@ footer .disclaimer {
 
 /* Page header tweaks */
 .page-header {
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
+  background-color: #fcfcfc;
   padding: 20px 20px 10px;
   margin: -20px -20px 20px;
 }
