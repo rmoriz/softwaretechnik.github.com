@@ -13,7 +13,7 @@ nav_order: 1
 <div class="page-header">
   <h1>Manifest</h1>
 <p class="pull-right">
-  <a class="btn btn-large btn-primary">Mitmachen!</a>
+  <a class="btn btn-large btn-primary" href="/contribute.html">Mitmachen!</a>
 </p>
 </div>
 
