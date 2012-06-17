@@ -66,9 +66,10 @@ Die Anforderungen diesbezüglich sind:
 -  MVC-Pattern, zumindest Trennung von Views und Controllern/Models.
 -  Testgetriebene Entwicklung muss möglich sein
 -  Single command deployment
--  Die Lösung muss am freien Markt, in der Open Source Szene oder
-   anderswo signifikante Popularität geniessen. Eigenentwicklungen haben
-   hier keine Chance.
+-  Single command testing
+-  Unterstützung durch [Travis CI](http://about.travis-ci.org/docs/)
+-  Die Lösung muss am freien Markt oder in der Open Source Szene 
+   signifikante Popularität geniessen (Mehr als 1000 Projekte).
 
 Natürlich steht es Dir frei zu tun und zu lassen, was zu möchtest.
 Hierfür ist die AG Softwaretechnik jedoch nicht der richtige Ort.
@@ -87,3 +88,7 @@ Hierfür ist die AG Softwaretechnik jedoch nicht der richtige Ort.
 
 siehe vorherige Antwort.
 
+### Q: Ich bin schlauer als $alle. Ich habe ein eigenes Webframework geschrieben, welches 1000x besser ist…
+
+Sehr unwahrscheinlich.
+Wir wollen Aufwand und Risiken minimieren. Glücksspiel oder Räder neu zu erfinden, gehört nicht dazu. Siehe vorherige Antwort.
