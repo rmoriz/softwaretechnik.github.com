@@ -76,7 +76,7 @@ zeitsparend und ressourcensparend (Zeit, Geld, Hardware) umsetzt. Agile
 Entwicklungsmethoden, testgetriebene Entwicklung und moderne
 Software-Stacks gehören deshalb schon lange untrennbar zu unserem Alltag. Wir 
 wollen diese Sichtweise auch innderhalb der Partei etablieren und zwar nicht 
-durch endlose Diskussionen oder Missionarsarbeit, sondern schlicht durch die Resultate unserer Arbeit.
+durch endlose Diskussionen oder Missionsarbeit, sondern schlicht durch unsere Resultate.
 
 __**Wir liefern.**__
 
